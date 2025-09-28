@@ -1,0 +1,13 @@
+/* Sneaker image hover effect */
+.product-img {
+  transition: transform 0.3s ease-in-out;
+}
+
+.product-img:hover {
+  transform: scale(1.08);
+}
+
+/* Footer logo size */
+.logo {
+  height: 50px;
+}
